@@ -1,0 +1,8 @@
+module github.com/armantarkhanian/cloner
+
+go 1.15
+
+require (
+	github.com/go-git/go-git/v5 v5.2.0
+	github.com/joho/godotenv v1.3.0
+)
